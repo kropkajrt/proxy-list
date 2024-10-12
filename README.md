@@ -8,12 +8,6 @@ Last updated: `2024-10-12 11:25:48`
 
 # You can access the proxy lists directly using the following links:
 
-- **ALL**
-
-```bash
-https://raw.githubusercontent.com/kropkajrt/proxy-list/refs/heads/main/all.txt
-```
-
 - **HTTP**
 
 ```bash
