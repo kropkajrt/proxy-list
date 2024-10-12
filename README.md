@@ -2,11 +2,11 @@
 
 # If you find this proxy list useful, please consider giving the repository a star!
 
-Total proxies: `385120`  
-HTTP: `147903`  
+Total proxies: `385121`  
+HTTP: `147904`  
 SOCKS4: `121802`  
 SOCKS5: `115415`  
-Last updated: `2024-10-12 17:35:47`  
+Last updated: `2024-10-12 17:36:58`  
 
 # You can access the proxy lists directly using the following links:
 
