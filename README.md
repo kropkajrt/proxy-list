@@ -4,7 +4,7 @@ Total proxies: `382671`
 HTTP: `147162`  
 SOCKS4: `120986`  
 SOCKS5: `114523`  
-Last updated: `2024-10-12 12:09:46`  
+Last updated: `2024-10-12 12:10:58`  
 
 # You can access the proxy lists directly using the following links:
 
