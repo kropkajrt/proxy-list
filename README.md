@@ -1,10 +1,10 @@
 # The best free proxy list updated every minute with fresh HTTP, SOCKS4, and SOCKS5 proxies.
 
-Total proxies: `382598`  
+Total proxies: `382633`  
 HTTP: `147140`  
-SOCKS4: `120937`  
+SOCKS4: `120972`  
 SOCKS5: `114521`  
-Last updated: `2024-10-12 12:05:07`  
+Last updated: `2024-10-12 12:06:15`  
 
 # You can access the proxy lists directly using the following links:
 
