@@ -4,9 +4,15 @@ Total proxies: `381677`
 HTTP: `146810`  
 SOCKS4: `120588`  
 SOCKS5: `114279`  
-Last updated: `2024-10-12 11:04:39`  
+Last updated: `2024-10-12 11:06:03`  
 
 # You can access the proxy lists directly using the following links:
+
+- **ALL**
+
+```bash
+https://raw.githubusercontent.com/kropkajrt/proxy-list/refs/heads/main/all.txt
+```
 
 - **HTTP**
 
