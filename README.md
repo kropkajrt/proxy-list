@@ -1,10 +1,12 @@
 # The best free proxy list updated every minute with fresh HTTP, SOCKS4, and SOCKS5 proxies.
 
-Total proxies: `384707`  
-HTTP: `147766`  
-SOCKS4: `121650`  
-SOCKS5: `115291`  
-Last updated: `2024-10-12 16:54:02`  
+# If you find this proxy list useful, please consider giving the repository a star!
+
+Total proxies: `384673`  
+HTTP: `147748`  
+SOCKS4: `121638`  
+SOCKS5: `115287`  
+Last updated: `2024-10-12 16:50:38`  
 
 # You can access the proxy lists directly using the following links:
 
@@ -26,4 +28,4 @@ https://raw.githubusercontent.com/kropkajrt/proxy-list/refs/heads/main/socks4.tx
 https://raw.githubusercontent.com/kropkajrt/proxy-list/refs/heads/main/socks5.txt
 ```
 
-# These proxies are scraped from various public sources and collected here for easier access. I am not responsible for them.
+# Please note that these proxies are scraped from different public sources, and I am not responsible for them.
